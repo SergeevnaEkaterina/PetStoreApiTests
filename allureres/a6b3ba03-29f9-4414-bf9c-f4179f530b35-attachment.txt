@@ -1,0 +1,1 @@
+id=240212155979471 category=Category(id=154706327692342, name='d36d8c4327fc42b7b8ce5c0365e39a37') name='b03f1173fcf7424286d3df8c9b7a2e76' status=<Status.sold: 'sold'> photoUrls=[] tags=[Tag(id=251514488568848, name='0014f2fd65354d5aa6413b97403619cf')]

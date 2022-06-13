@@ -1,0 +1,1 @@
+id=228357463479293 petId=88495677587683 quantity=5 shipDate='2022-06-13T18:06:10.083+0000' status=<Status.delivered: 'delivered'> complete=True

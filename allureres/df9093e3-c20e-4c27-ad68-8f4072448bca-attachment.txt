@@ -1,0 +1,1 @@
+id=85349759584557 petId=209052267831770 quantity=5 shipDate='2022-06-13T18:06:11.130+0000' status=<Status.placed: 'placed'> complete=True

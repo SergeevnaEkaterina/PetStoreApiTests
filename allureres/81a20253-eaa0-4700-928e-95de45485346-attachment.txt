@@ -1,0 +1,1 @@
+id=128069256483945 category=Category(id=186287708660864, name='3359213066e646d5983f10b778a4ef04') name='5abd1fc140ec47a3a382bcf978a11e06' status=<Status.sold: 'sold'> photoUrls=[] tags=[Tag(id=18721527001141, name='f5e6716400d14df7b4b9b7a7d98bbd83'), Tag(id=222796677105729, name='4ecaf53bb82d44128e9a87274b2c736d')]

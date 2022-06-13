@@ -1,0 +1,2 @@
+id=148247193118102 category=Category(id=15323266629609, name='fdc3eeb916f140288c65c32ca3902306') name='b54c66cc19b64100af8e1cc1755ccb44' status=<Status.sold: 'sold'> photoUrls=[] tags=[]
+id=232845163046578 category=Category(id=81641067914857, name='eec9af33e63b4818af2986bed27829d8') name='393cf288bcbb44448d0f2ebf38f4ae85' status=<Status.available: 'available'> photoUrls=[] tags=[]
